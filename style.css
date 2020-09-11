@@ -6,6 +6,5 @@ h1 {
     font-size: 50px;
     color: hotpink;
     font-family: "Georgia", serif;
-    -webkit-animation: my-animation 2s ease 0s infinite alternate;
-    animation: my-animation 2s ease 2s infinite alternate
+   
 }
